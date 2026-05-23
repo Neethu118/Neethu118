@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Neethu 👋</h1>
-<p align="center">
+<h1 align="left">Hi, I'm Neethu 👋</h1>
+<p align="left">
   Data Science @ IISER Thiruvananthapuram
 </p>
 
@@ -17,16 +17,6 @@ On the project side, I've built spatio-temporal pipelines for satellite-based re
 Curious about generative models. Still finding my way there.
 
 --- 
-
-## Projects
-
-**Satellite-based Reservoir Monitoring & Drought Analysis**
-Spatio-temporal framework integrating Sentinel-2 imagery with CHIRPS, ERA5, and GLDAS climate data across 4 Cauvery basin reservoirs. Built an ETL pipeline, engineered 90 features, and quantified drought vulnerability patterns (climate-storage correlation r = 0.78).
-
-**ULD Cargo Packing Optimization** *(Ongoing)*
-AI-based system applying CSP, heuristic search, and RL to minimize air freight cost under spatial, weight, and priority constraints. Turns out reward design for bin packing is its own research problem.
-
----
 
 ## Skills
 
