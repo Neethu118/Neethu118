@@ -1,8 +1,12 @@
-<h1 align="left">Hi, I'm Neethu 👋</h1>
-<p align="left">
-  Data Science @ IISER Thiruvananthapuram
-</p>
+<a href="https://github.com/Neethu118">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a18cd1,100:fbc2eb&text=Neethu%20D&fontsize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%40%20IISER%20TVM%20%C2%B7%20DST%20INSPIRE%20Fellow&descAlignY=58&animation=fadeIn" width="100%" />
+</a>
 
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=ML+%C2%B7+RL+%C2%B7+Spatio-temporal+Data;Graph+Embedding+%C2%B7+Optimization;GenAI+enthusiast+%C2%B7+always+mid-experiment" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -10,46 +14,77 @@
 
 Third-year BS-MS student at IISER TVM, working on problems where structure in data is either something to discover or something to exploit.
 
-My research so far has taken me through unsupervised graph embedding-mostly learning how much breaks when you remove supervision and sitting in on feature dependency modelling work, which is teaching me a lot even when I'm mostly listening. 
+My research so far has taken me through unsupervised graph embedding — mostly learning how much breaks when you remove supervision — and sitting in on feature dependency modelling work, which is teaching me a lot even when I'm mostly listening.
 
 On the project side, I've built spatio-temporal pipelines for satellite-based reservoir monitoring and applied RL and CSP to real cargo packing problems. I like work that sits at the edge of clean theory and messy real-world data.
 
 Curious about generative models. Still finding my way there.
 
---- 
+---
+
+## Projects
+
+🛰️ **Satellite-based Reservoir Monitoring & Drought Analysis**
+Spatio-temporal framework integrating Sentinel-2 imagery with CHIRPS, ERA5, and GLDAS climate data across 4 Cauvery basin reservoirs. Built an ETL pipeline, engineered 90 features, quantified drought vulnerability patterns (climate-storage correlation r = 0.78), and forecasted water levels with Prophet and ARIMA.
+
+📦 **ULD Cargo Packing Optimization**
+AI-based system applying CSP, heuristic search, and RL to minimize air freight cost under spatial, weight, and priority constraints. Turns out reward design for bin packing is its own research problem.
+
+---
+
+## Research
+
+🕸️ **Graph Embedding — Unsupervised Extension** *(Summer 2025)*
+Investigated unsupervised extensions to a graph embedding framework using Leiden community detection for pseudo-label generation. Analyzed optimization challenges when transitioning from supervised to unsupervised settings across t-SNE and UMAP similarity approaches. As much about understanding failure modes as finding solutions.
+
+---
 
 ## Skills
 
-**Languages**
+**Languages:** Python, SQL, R, C, C++, MATLAB
+**Libraries:** NumPy, Pandas, Scikit-learn, PyTorch, Matplotlib, Seaborn, Prophet
+**Tools & DB:** MySQL, Google Earth Engine, Jupyter Notebook, Google Colab, Git, Overleaf
+**ML Concepts:** Regression, Classification, Clustering, Dimensionality Reduction, Reinforcement Learning, Time Series Forecasting, Graph Embedding
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+---
 
-**Libraries**
+## Tech Stack
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" title="Python"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" title="Git"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" title="VS Code"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="48" title="GitHub"/>
+</p>
 
-**Tools & Databases**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
+## What I'm Working On
+
+- 🔬 Feature dependency modelling across benchmark datasets
+- 🚦 Spatio-temporal traffic flow prediction (NIT Calicut internship)
+- 📖 Making my way into generative models and NLP
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neethu118&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neethu118&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Neethu118&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/ndev.me@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ndev.me@gmail.com)
+- 📧 neethu23@iisertvm.ac.in
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a18cd1,100:fbc2eb" width="100%" />
+</p>
