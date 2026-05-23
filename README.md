@@ -30,3 +30,9 @@ Curious about generative models. Still finding my way there.
 ## Contact
 
 - neethu23@iisertvm.ac.in
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=minimal&hide_border=true" />
+</p>
