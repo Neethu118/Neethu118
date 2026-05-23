@@ -52,4 +52,4 @@ Curious about generative models. Still finding my way there.
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/ndev.me@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neethu23@iisertvm.ac.in)
+[![Email](https://img.shields.io/badge/ndev.me@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ndev.me@gmail.com)
