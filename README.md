@@ -1,9 +1,9 @@
 <a href="https://github.com/Neethu118">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a18cd1,100:fbc2eb&text=Neethu%20D&fontsize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%40%20IISER%20TVM%20%C2%B7%20DST%20INSPIRE%20Fellow&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a18cd1,100:fbc2eb&text=Neethu%20D&fontsize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%40%20IISER%20TVM&descAlignY=58&animation=fadeIn" width="100%" />
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=ML+%C2%B7+RL+%C2%B7+Spatio-temporal+Data;Graph+Embedding+%C2%B7+Optimization;GenAI+enthusiast+%C2%B7+always+mid-experiment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=turning+messy+data+into+something+meaningful;ML+%C2%B7+RL+%C2%B7+forecasting+%C2%B7+optimization+%C2%B7+GenAI+enthusiast;always+something+new" alt="Typing SVG" />
 </p>
 
 ---
