@@ -28,9 +28,6 @@ Spatio-temporal framework integrating Sentinel-2 imagery with CHIRPS, ERA5, and 
 📦 **ULD Cargo Packing Optimization**  
 AI-based system applying CSP, heuristic search, and RL to minimize air freight cost under spatial, weight, and priority constraints. Turns out reward design for bin packing is its own research problem.
 
-🚦 **Real-Time Adaptive Traffic Signal Control** *(NIT Calicut, Summer 2026)*  
-Working on vehicle detection and density estimation for adaptive signal timing using YOLO.
-
 ---
 
 ## Research So Far
