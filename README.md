@@ -34,29 +34,29 @@ Constraint satisfaction, heuristic search, and reinforcement learning applied to
 ## Technical Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-2E4057?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-2E4057?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-2E4057?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-2E4057?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-2E4057?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-2E4057?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-2E4057?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-2E4057?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-2E4057?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-2E4057?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-2E4057?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-2E4057?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-2E4057?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-2E4057?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-2E4057?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-2E4057?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Overleaf-2E4057?style=flat-square&logo=overleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white"/>
 </p>
 
 ---
@@ -71,5 +71,5 @@ Constraint satisfaction, heuristic search, and reinforcement learning applied to
 ---
 
 <div align="center">
-<sub>Open to ML Engineer / Applied Scientist opportunities — reach out via email above.</sub>
+<sub><em>Open to new opportunities</em></sub>
 </div>
