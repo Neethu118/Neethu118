@@ -17,7 +17,7 @@ Third-year BS-MS Data Science student at IISER Thiruvananthapuram, working acros
 
 I'm currently also contributing to a research team's ongoing work on feature dependency modelling, alongside my applied project work.
 
-I'm looking to bring that foundation into industry, in ML Engineer or Applied Scientist roles where research-grade methods meet real production constraints.
+I'm looking to bring that foundation into industry, in Applied Scientist roles where research-grade methods meet real production constraints.
 
 ---
 
