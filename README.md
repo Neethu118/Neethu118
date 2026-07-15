@@ -4,8 +4,8 @@
 
 **Data Science (BS-MS) · IISER Thiruvananthapuram**
 
-[![Email](https://img.shields.io/badge/Email-neethu23%40iisertvm.ac.in-2E4057?style=flat-square)](mailto:neethu23@iisertvm.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Neethu118-2E4057?style=flat-square&logo=github&logoColor=white)](https://github.com/Neethu118)
+[![Email](https://img.shields.io/badge/Email-neethu23%40iisertvm.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neethu23@iisertvm.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Neethu118-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Neethu118)
 
 </div>
 
@@ -48,6 +48,7 @@ Constraint satisfaction, heuristic search, and reinforcement learning applied to
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -57,6 +58,9 @@ Constraint satisfaction, heuristic search, and reinforcement learning applied to
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUMO-1a1a1a?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white"/>
 </p>
 
 ---
