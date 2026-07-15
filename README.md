@@ -13,7 +13,7 @@
 
 ## About
 
-Third-year BS-MS Data Science student at IISER Thiruvananthapuram, working across machine learning, reinforcement learning, forecasting, and optimization. My research and project work sits at the intersection of theoretical rigor and applied, data-driven problem solving — from graph representation learning to satellite-based environmental monitoring and combinatorial optimization for logistics.
+Third-year BS-MS Data Science student at IISER Thiruvananthapuram, working across machine learning, reinforcement learning, forecasting, and optimization. My research and project work sits at the intersection of theoretical rigor and applied, data-driven problem solving from graph representation learning to satellite-based environmental monitoring and combinatorial optimization for logistics.
 
 I'm currently also contributing to a research team's ongoing work on feature dependency modelling, alongside my applied project work.
 
@@ -27,7 +27,7 @@ I'm looking to bring that foundation into industry, in ML Engineer or Applied Sc
 Spatio-temporal framework integrating Sentinel-2 imagery with CHIRPS, ERA5, and GLDAS climate data across four reservoirs in the Cauvery basin. Designed the ETL pipeline, engineered 90 features, and quantified drought vulnerability (climate–storage correlation, r = 0.78).
 
 **ULD Cargo Packing Optimization**
-Constraint satisfaction, heuristic search, and reinforcement learning applied to air freight loading, minimizing cost under spatial, weight, and priority constraints. Reward design for the RL component turned into a research question in its own right.
+AI-based system applying constraint satisfaction, heuristic search, and reinforcement learning to air freight loading, minimizing cost under spatial, weight, and priority constraints while balancing competing shipment priorities in near real time.
 
 ---
 
