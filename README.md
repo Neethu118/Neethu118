@@ -30,7 +30,6 @@ Spatio-temporal framework integrating Sentinel-2 imagery with CHIRPS, ERA5, and 
 AI-based system applying constraint satisfaction, heuristic search, and reinforcement learning to air freight loading, minimizing cost under spatial, weight, and priority constraints while balancing competing shipment priorities in near real time.
 
 **Real-time Adaptive Traffic Signal Control**
-
 Designed an adaptive signal control policy, using YOLOv8 and ByteTrack for real-time vehicle detection and tracking as the input pipeline; benchmarked the proposed policy against 4 baseline strategies in SUMO simulation, achieving a 61% reduction in wait time under high-density traffic.
 
 ---
