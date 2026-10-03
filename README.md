@@ -13,11 +13,11 @@
 
 ## About
 
-Hi, I'm Neethu, a fourth-year BS-MS Data Science student at IISER Thiruvananthapuram. I like problems where theory meets messy real-world data: machine learning, reinforcement learning, forecasting, and optimization.
+Hi, I'm a fourth-year BS-MS Data Science student at IISER Thiruvananthapuram, working across machine learning, reinforcement learning, forecasting, and optimization. My research and project work sits at the intersection of theoretical rigor and applied, data-driven problem solving from graph representation learning to satellite-based environmental monitoring and combinatorial optimization for logistics.
 
-Lately that has meant satellites watching reservoirs, cargo being packed into aircraft, and traffic lights learning to behave. Next up: graph learning for biological networks 🧬
+I'm currently also contributing to a research team's ongoing work on feature dependency modelling, alongside my applied project work. My current focus is shifting toward graph learning and computational biology, using graph-based methods to model biological networks.
 
-Eventually aiming for Applied Scientist roles, where research-grade methods meet real production constraints.
+I'm looking to bring that foundation into industry, in Applied Scientist roles where research-grade methods meet real production constraints.
 
 ---
 
