@@ -13,7 +13,7 @@
 
 ## About
 
-Hi, I'm a fourth-year BS-MS Data Science student at IISER Thiruvananthapuram, working across machine learning, reinforcement learning, forecasting, and optimization. My research and project work sits at the intersection of theoretical rigor and applied, data-driven problem solving from graph representation learning to satellite-based environmental monitoring and combinatorial optimization for logistics.
+Hi, I'm a fourth-year BS-MS Data Science student at IISER Thiruvananthapuram, working across machine learning, forecasting, and optimization. My research and project work sits at the intersection of theoretical rigor and applied, data-driven problem solving from graph representation learning to satellite-based environmental monitoring and combinatorial optimization for logistics.
 
 I'm currently also contributing to a research team's ongoing work on feature dependency modelling, alongside my applied project work. My current focus is shifting toward graph learning and computational biology, using graph-based methods to model biological networks.
 
