@@ -13,11 +13,11 @@
 
 ## About
 
-Hi, I'm a fourth-year BS-MS Data Science student at IISER Thiruvananthapuram, working across machine learning, reinforcement learning, forecasting, and optimization. My research and project work sits at the intersection of theoretical rigor and applied, data-driven problem solving from graph representation learning to satellite-based environmental monitoring and combinatorial optimization for logistics.
+Hi, I'm Neethu, a fourth-year BS-MS Data Science student at IISER Thiruvananthapuram. I like problems where theory meets messy real-world data: machine learning, reinforcement learning, forecasting, and optimization.
 
-I'm currently also contributing to a research team's ongoing work on feature dependency modelling, alongside my applied project work.
+Lately that has meant satellites watching reservoirs, cargo being packed into aircraft, and traffic lights learning to behave. Next up: graph learning for biological networks 🧬
 
-I'm looking to bring that foundation into industry, in Applied Scientist roles where research-grade methods meet real production constraints.
+Eventually aiming for Applied Scientist roles, where research-grade methods meet real production constraints.
 
 ---
 
@@ -68,15 +68,6 @@ Designed an adaptive signal control policy, using YOLOv8 and ByteTrack for real-
 
 ---
 
-## GitHub Activity
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Neethu118&show_icons=true&theme=default&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neethu118&layout=compact&theme=default&hide_border=true" height="160"/>
-</div>
-
----
-
-<div align="center">
-<sub><em>Open to new opportunities</em></sub>
+<sub><em>Always mid-experiment · Open to new opportunities</em></sub>
 </div>
